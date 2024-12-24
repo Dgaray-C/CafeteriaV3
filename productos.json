@@ -1,0 +1,18 @@
+[
+    {"nombre": "Capuchino pequeño", "precio": 2500, "id": 4, "categoria": "bebida", "img": "capuchino-pequeno.webp"},
+    {"nombre": "Capuchino mediano", "precio": 3000, "id": 5, "categoria": "bebida", "img": "capuchino-mediano.webp"},
+    {"nombre": "Capuchino grande", "precio": 3500, "id": 6, "categoria": "bebida", "img": "capuchino-grande.webp"},
+    {"nombre": "Latte pequeño", "precio": 2500, "id": 7, "categoria": "bebida", "img": "latte-pequeno.webp"},
+    {"nombre": "Latte mediano", "precio": 3000, "id": 8, "categoria": "bebida", "img": "latte-mediano.webp"},
+    {"nombre": "Latte grande", "precio": 3500, "id": 9, "categoria": "bebida", "img": "latte-grande.webp"},
+    {"nombre": "Americano pequeño", "precio": 1000, "id": 1, "categoria": "bebida", "img": "americano-pequeno.webp"},
+    {"nombre": "Americano mediano", "precio": 1500, "id": 2, "categoria": "bebida", "img": "americano-mediano.webp"},
+    {"nombre": "Americano grande", "precio": 2000, "id": 3, "categoria": "bebida", "img": "americano-grande.webp"},
+    {"nombre": "Mocha pequeño", "precio": 2800, "id": 10, "categoria": "bebida", "img": "mocha-pequeno.webp"},
+    {"nombre": "Mocha mediano", "precio": 3300, "id": 11, "categoria": "bebida", "img": "mocha-mediano.webp"},
+    {"nombre": "Mocha grande", "precio": 3800, "id": 12, "categoria": "bebida", "img": "mocha-grande.webp"},
+    {"nombre": "Té negro", "precio": 2000, "id": 13, "categoria": "bebida", "img": "te-negro.webp"},
+    {"nombre": "Te verde", "precio": 2200, "id": 14, "categoria": "bebida", "img": "te-verde.webp"},
+    {"nombre": "Té chai latte", "precio": 3500, "id": 15, "categoria": "bebida", "img": "te-chai-latte.webp"}
+]
+
